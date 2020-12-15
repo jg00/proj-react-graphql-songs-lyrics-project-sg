@@ -1,0 +1,19 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.vote-box {
+  display: flex;
+  align-items: center;
+}
+
+.vote-box .like-box {
+  min-width: 20px;
+  text-align: center;
+}
